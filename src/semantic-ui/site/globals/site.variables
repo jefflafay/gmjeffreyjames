@@ -1,0 +1,5 @@
+/*******************************
+     User Global Variables
+*******************************/
+@primaryColor: #002f4e;
+@pageBackground: linear-gradient(#9198e5, #e66465);
